@@ -1,6 +1,9 @@
 # name
 
 ![type_xxx](https://img.shields.io/badge/type-aaaa-red)
+<!-- for picoCTF -->
+![sub_type_xxx](https://img.shields.io/badge/sub_type-dddd-orange)
+<!--  -->
 ![level_xxx](https://img.shields.io/badge/level-bbbb-green)
 ![points_xxx](https://img.shields.io/badge/points-cccc-blue)
 

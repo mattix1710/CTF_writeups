@@ -13,5 +13,7 @@
 ## Solution
 Download the file and run `exiftool` on it. You will find the flag in the output.
 
-### Flag
-> flag{3l1t3_3x1f_4uth0r1ty_dud3br0}
+<details>
+<summary><b style="font-size:22px">Flag</b></summary>
+<center>flag{3l1t3_3x1f_4uth0r1ty_dud3br0}</center>
+</details>

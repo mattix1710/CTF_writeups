@@ -19,5 +19,7 @@ Loosing negative number is equal to gaining positive value - from the game logic
 
 On end screen, after displaying the information about loosing the game, the message appeared and revealed the flag.
 
-### Flag
-> CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}
+<details>
+<summary><b style="font-size:22px">Flag</b></summary>
+<center> CTFlearn{d9029a08c55b936cbc9a30_i_wish_real_betting_games_were_like_this!}</center>
+</details>

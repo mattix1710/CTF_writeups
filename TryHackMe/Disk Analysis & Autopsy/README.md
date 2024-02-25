@@ -21,7 +21,13 @@
       1. <details>
             <center><b>Intel(R) PRO/1000 MT Desktop Adapter</b></center>
          </details>
-3. Q11 - A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
+3. Q9 - A user bookmarked a Google Maps location. What are the coordinates of the location?
+   1. Coordinates can be easily found in the `Results/Extracted Content` location. They are placed in `Web Bookmarks` and `Web History`.
+   2. For the flag it is necessary to copy the text 1:1:
+      1. <details>
+            <center><b>12°52'23.0"N 80°13'25.0"E</b></center>
+         </details>
+4. Q11 - A user had a file on her desktop. It had a flag but she changed the flag using PowerShell. What was the first flag?
    1. It is necessary to browse through all the users `AppData/Roaming/Microsoft/Windows/PowerShell/PSReadLine` locations.
    2. Flag can be found in:
       1. <details>
